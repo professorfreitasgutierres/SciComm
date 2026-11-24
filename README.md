@@ -8,6 +8,7 @@ Este repositório reúne artigos de divulgação científica e reflexões sobre 
 
 ## 📰 Guia do PC
 
+- 23 nov. 2026. [Neste Natal, não dê presentes aos cibercriminosos](https://guiadopc.com.br/artigos/58135/neste-natal-nao-de-presentes-aos-cibercriminosos.html).
 - 10 nov. 2026. [Vulnerabilidades demais, respostas de menos: a lei de Ashby na era da inteligência artificial](https://guiadopc.com.br/artigos/57998/vulnerabilidades-demais-respostas-de-menos-a-lei-de-ashby-na-era-da-inteligencia-artificial.html).
 - 26 jun. 2026. [Talvez você esteja focado no termômetro e não na doença](https://guiadopc.com.br/artigos/56926/talvez-voce-esteja-focado-no-termometro-e-nao-na-doenc.html).
 
